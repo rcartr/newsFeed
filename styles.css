@@ -1,0 +1,43 @@
+body {
+   background-color: cadetblue;
+}
+
+.article-card {
+	width: 400px;
+   height: auto;
+	border-style: outset;
+	border-radius: 10px;
+	border-width: 2px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.article-card:hover {
+   border-color: crimson;
+}
+
+img {
+   max-width: 400px;
+}
+
+h2 {
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.articleAuthor {
+   font-size: 14px;
+}
+
+.customHR {
+   width: 100%;
+
+}
+
+p {
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a.readMore {
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	text-align: center;
+}
